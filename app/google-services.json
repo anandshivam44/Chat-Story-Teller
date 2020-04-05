@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "888957686163",
+    "firebase_url": "https://storyteller-cf581.firebaseio.com",
+    "project_id": "storyteller-cf581",
+    "storage_bucket": "storyteller-cf581.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888957686163:android:59b1f6b3bf786f2b5f5866",
+        "android_client_info": {
+          "package_name": "com.example.recyclerview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888957686163-u3dkkk6m2jar3mumq6qoa78or0nsg746.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.recyclerview",
+            "certificate_hash": "cc41727e50ddfba6b9689358f49889ecebf136ce"
+          }
+        },
+        {
+          "client_id": "888957686163-31fj3csolq241gaabp042c91nlc1bd7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHLgpBrNDoGd8ev0asXpkRnG4sVkrtXjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888957686163-31fj3csolq241gaabp042c91nlc1bd7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
